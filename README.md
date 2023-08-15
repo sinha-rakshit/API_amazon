@@ -64,8 +64,6 @@ The server will start on port 3000 by default. You can access the API at `http:/
 
 ## Usage
 
-You can access the API endpoints using tools like `curl`, Postman, or any other HTTP client.
-
 The **Amazon Scraper API** can be a fundamental component for building a price comparison website, which can be accessed using tools like `curl`, Postman, or any other HTTP client.
 
 Here's how the Amazon Scraper API can be utilized:
