@@ -7,7 +7,7 @@ The **Amazon Scraper API** is a simple Node.js application that provides endpoin
 - [Introduction](#introduction)
 - [Features](#features)
 - [Setup](#setup)
-- [Technologies Used](#technologiesUsed)
+- [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
   
