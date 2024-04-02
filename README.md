@@ -29,7 +29,7 @@ The Amazon Scraper API allows you to retrieve various types of data from Amazon'
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/amazon-scraper-api.git
+git clone https://github.com/your-username/api_amazon.git
 ```
 
 2. Install dependencies:
