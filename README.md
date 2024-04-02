@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# api_amazon
-=======
 # Amazon Scraper API
 
 The **Amazon Scraper API** is a simple Node.js application that provides endpoints for scraping product details, reviews, offers, and search results from Amazon. It utilizes the ScraperAPI service to scrape data from Amazon's website and presents the information in a JSON format through an API.
