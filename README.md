@@ -1,6 +1,6 @@
 # Amazon Product Data API
 
-The **Amazon Scraper API** is a simple Node.js application that provides endpoints for scraping product details, reviews, offers, and search results from Amazon. It utilizes the ScraperAPI service to scrape data from Amazon's website and presents the information in a JSON format through an API.
+The **Amazon Product Data API** is a simple Node.js application that provides endpoints for scraping product details, reviews, offers, and search results from Amazon. It utilizes the ScraperAPI service to scrape data from Amazon's website and presents the information in a JSON format through an API.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ The **Amazon Scraper API** is a simple Node.js application that provides endpoin
 
 ## Introduction
 
-The Amazon Scraper API allows you to retrieve various types of data from Amazon's website, including product details, reviews, offers, and search results. It's built on top of Node.js and Express, and it uses the ScraperAPI service to perform web scraping in a structured manner.
+The Amazon Product Data API allows you to retrieve various types of data from Amazon's website, including product details, reviews, offers, and search results. It's built on top of Node.js and Express, and it uses the ScraperAPI service to perform web scraping in a structured manner.
 
 ## Features
 
